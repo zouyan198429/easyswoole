@@ -1,0 +1,9 @@
+/.idea
+/Temp
+/Log
+/vendor
+/composer.json
+/composer.lock
+/EasySwooleEvent.php
+/dev.php
+/produce.php
